@@ -1,0 +1,17 @@
+{
+  "name": "ci",
+  "authors": [
+    "supachai <supachai10319@hotmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
